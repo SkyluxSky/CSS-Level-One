@@ -1,0 +1,25 @@
+/* selected tag {
+  property: value;
+} */
+
+body {
+  background: url(https://ak9.picdn.net/shutterstock/videos/24454109/thumb/1.jpg);
+  background-repeat: repeat;
+}
+
+div {
+  background-color: blue;
+  /* border-color: blue; */
+  /* border-style: inset; */
+  /* border-width: thin; */
+  border: orange 5px dotted;
+}
+
+p {
+  color: yellow;
+}
+
+span {
+  background: red;
+  color: white;
+}

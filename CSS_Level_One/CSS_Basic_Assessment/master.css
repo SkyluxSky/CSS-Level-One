@@ -1,0 +1,77 @@
+/* Places image in background from url; */
+body {
+  background-image: url(https://vgcusf.club/wp-content/uploads/2018/03/background.jpg);
+}
+
+/* Changes title to blue with black border */
+h1 {
+  color: darkblue;
+  border: 4px solid black;
+}
+
+/* Chacnges color of h2 headings */
+h2 {
+  color: darkred;
+}
+
+/* Changes second paragraph background color to gold */
+div p {
+  background-color: gold;
+}
+
+/* Optional: changes color of google link in list */
+li a {
+  color: green;
+  text-decoration: underline;
+}
+/* Changes color of link when clicked and hovered*/
+a:visited {
+  color:blue;
+}
+
+a:hover {
+  color:green;
+}
+
+/* Changes input borders to red */
+input{
+  border: 2px solid rgb(144, 0, 0);
+}
+
+/* Changes first list item with id */
+#itemone {
+  color: green;
+  text-decoration: overline;
+}
+
+/* Adds border to textbox using id */
+#textblock{
+  border: 5px solid gold;
+  width: 800px;
+  height: 400px;
+}
+
+/* Adds background color to bottom text using id */
+/* #questPara {
+  background-color: beige;
+} */
+
+/* Does same thing as div p {} */
+/* .firstClass {
+  background-color: gold;
+} */
+
+/* Unused Classes
+.blogtext {
+
+}
+
+.loginForm {
+
+} */
+
+/* Changes bottom area */
+.exit {
+  border: 2px solid gold;
+  background-color: grey;
+}

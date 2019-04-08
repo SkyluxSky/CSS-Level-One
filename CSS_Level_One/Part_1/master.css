@@ -1,0 +1,23 @@
+/*This is a comment*/
+
+/* selected tag {
+  property: value;
+} */
+
+h1 {
+  color: #006d6d;
+  /* color: blue; */
+}
+
+li {
+  color: rgba(255, 100, 0, 0.8);
+  /* color: darkgreen; */
+}
+
+p {
+  background-color: #0895a8;
+}
+
+h4 {
+  color: rgba(255, 0, 0, 0.3);
+}

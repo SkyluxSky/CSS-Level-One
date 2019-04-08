@@ -1,0 +1,43 @@
+/* div {
+  color: #ff0000;
+} */
+
+/* *{
+  color: black;
+
+} */
+
+/* selecting child tag or tag within element */
+h3 + ul {
+  border: 4px dotted green;
+}
+
+/* selecting element in list */
+li a {
+  color: #dd0000;
+  text-decoration: none;
+}
+
+/* selecting an element with a specific attribute */
+li a[href="https://github.com/SkyluxSky"]{
+  background-color: yellow;
+  border: 5px solid orange;
+}
+
+/* id */
+#singledOut {
+  color: #00aa00;
+  text-decoration: line-through;
+
+}
+
+/* class */
+.firstDiv {
+  color: #0000aa;
+
+}
+
+.secondDiv {
+  color: #aa0000;
+
+}
